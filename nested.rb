@@ -155,6 +155,7 @@ def adding_to_dennis
      #adds 'Assembly' to Dennis Ritchie's languages
      
      programmer_hash[:dennis_ritchie][:languages].push('Assembly')
+     programmer_hash
 
 end
 
